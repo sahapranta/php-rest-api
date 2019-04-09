@@ -1,0 +1,12 @@
+{
+    "name": "hksamacar/api",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pranta Saha",
+            "email": "pranta@gmail.com"
+        }
+    ],
+    "require": {}
+}
