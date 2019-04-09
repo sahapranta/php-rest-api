@@ -8,10 +8,10 @@ Run PHP server from this directory
 Route | Links | Type |
 ------|-------| ----- |
 Create | http://localhost:3000/create_user.php | POST
-Read   | http://localhost:3000/read_all_user.php <br>http://localhost:3000/read_one_user.php?s=id  | GET
+Read   | http://localhost:3000/read_all_user.php <br>http://localhost:3000/read_one_user.php?id=id  | GET
 Update | http://localhost:3000/update_user.php | PUT/POST
 Delete | http://localhost:3000/delete_user.php | DELETE/POST
-Search | http://localhost:3000/search.php | POST
+Search | http://localhost:3000/search.php?s=query-string | GET
 Pagination | http://localhost:3000/read_paging.php | GET 
 
 
