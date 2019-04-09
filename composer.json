@@ -1,11 +1,12 @@
 {
-    "name": "hksamacar/api",
+    "name": "php-rest/api",
     "type": "project",
     "license": "MIT",
+    "description": "This is for learning purpose.",
     "authors": [
         {
             "name": "Pranta Saha",
-            "email": "pranta@gmail.com"
+            "email": "pranta1204@gmail.com"
         }
     ],
     "require": {}
