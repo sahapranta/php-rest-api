@@ -20,7 +20,7 @@ Pagination | http://localhost:3000/read_paging.php | GET
 - User
     1. id [auto increment]
     2. username [unique]
-    2. password [unique]
+    2. password
     2. created_at [default timestamp]
 
 In Search route id and username can be searched. Update route can handle both username and password update or anyone update.
